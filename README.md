@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="Araneo_inventorytr.png" alt="Araneo Inventory Icon" width="120"/>
-
 # Araneo Inventory
 
 **Export a full network inventory from Luminex Araneo `.ara` project files to Excel**
