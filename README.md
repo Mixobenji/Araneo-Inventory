@@ -15,7 +15,10 @@
 
 ## Overview
 
+This tool is intended for Luminex users who want to document their Luminex network in a format more shareable and editable.
 **Araneo Inventory** reads `.ara` project files saved by the [Luminex Araneo](https://www.luminex.be/products/software/araneo/) network management software and exports a structured, colour-coded Excel workbook containing a complete inventory of all switches, ports, VLAN groups, and connected devices.
+
+**This tool is not supported by Luminex**
 
 ---
 
